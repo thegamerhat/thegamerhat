@@ -1,4 +1,4 @@
-### <img src="https://github.com/thegamerhat/thegamerhat/blob/master/namaste.gif?raw=true" width="30px">   Namaste, I'm Pranav 
+###  Namaste, I'm Pranav <img src="https://github.com/thegamerhat/thegamerhat/blob/master/namaste.gif?raw=true" width="30px">  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegamerhat" alt="devded" /></p>
 
 
